@@ -4,7 +4,7 @@
 
 
 apptitle="Arch Linux Install (archi)"
-baseurl=https://raw.githubusercontent.com/himonshuuu/archi/master
+baseurl=https://raw.githubusercontent.com/himonshuuu/archi/main
 cpl=0
 skipfont="0"
 fspkgs=""
